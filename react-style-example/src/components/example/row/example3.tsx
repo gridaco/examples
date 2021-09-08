@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import React from "react";
-import DummbyBox from "../dummy-box";
+import DummbyBox from "../../dummy-box";
 
 function Example3() {
   <Wrapper>

@@ -8,7 +8,7 @@ function Example1() {
     <DummbyBox />
   </Wrapper>;
 }
-// Frame 315
+// Frame 342
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;

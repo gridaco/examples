@@ -11,12 +11,9 @@ function Example4() {
     <DummbyBox />
   </Wrapper>;
 }
-// Frame 338
+// Frame 347
 const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
-  // align-items: center;
-  // align-items: flex-end;
 `;

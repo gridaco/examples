@@ -1,0 +1,19 @@
+<template>
+  <div>
+    <button
+      autofocus
+      aria-autocomplete=""
+      disabled="false"
+      form=""
+      formaction=""
+      formenctype=""
+      formmethod=""
+      formnovalidate
+      name=""
+      type=""
+      value=""
+    >
+      Vue Button attributes demo
+    </button>
+  </div>
+</template>
